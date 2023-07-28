@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/MemCheck_1.dir/main.cpp.o CMakeFiles/MemCheck_1.dir/task.cpp.o CMakeFiles/MemCheck_1.dir/taskList.cpp.o  -o MemCheck_1 

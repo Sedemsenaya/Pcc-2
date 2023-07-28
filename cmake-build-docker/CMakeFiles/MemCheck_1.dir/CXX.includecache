@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/tmp/MemCheck-1/main.cpp
+iostream
+-
+task.h
+/tmp/MemCheck-1/task.h
+taskList.h
+/tmp/MemCheck-1/taskList.h
+
+/tmp/MemCheck-1/task.h
+
+/tmp/MemCheck-1/taskList.h
+task.h
+/tmp/MemCheck-1/task.h
+

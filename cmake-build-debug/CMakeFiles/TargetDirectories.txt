@@ -1,0 +1,3 @@
+C:/Users/Colli/CLionProjects/MemCheck-1/cmake-build-debug/CMakeFiles/MemCheck_1.dir
+C:/Users/Colli/CLionProjects/MemCheck-1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Colli/CLionProjects/MemCheck-1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
